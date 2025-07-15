@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 <!-- - 🤔 I'm looking for help with optimizing quantum simulations in Python and best practices for Flutter Web project architecture. -->
 
 <!--- ⚡ Fun fact: ...-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrick044&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrick044&layout=compact&theme=transparent)
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,cs,java,python,nodejs,unity,mysql,scikitlearn,arduino)](https://skillicons.dev)
 
