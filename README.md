@@ -1,16 +1,16 @@
-## Olá! Eu sou o Erick Gonçalves
+## Hello! I'm Erick Gonçalves
 
 <!--
 **elrick044/elrick044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 Atualmente estou desenvolvendo meu TCC com foco em simulação computacional de nanotubos de carbono utilizando Python
-- 🌱 Estou estudando ferramenta como ASE, Kwant, DFTB+ para python e aperfeiçoando meu conhecimentos em Flutter
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- - 💬 Ask me about ... 
-- 📫 Como me encontrar: erickkgsbr@gmail.com  
+- 🔭 I’m currently working on my final undergraduate project focused on computational simulation of carbon nanotubes using Python.
+- 🌱 I'm studying tools like ASE, Kwant, and DFTB+ for Python, and improving my skills in Flutter development.
+- 👯 I'm looking to collaborate on open-source projects related to computational physics, scientific simulations, or Flutter apps.
+- 💬 Ask me about scientific Python (ASE, Kwant, DFTB+), Flutter, or how to integrate physics and software development in practice.
+<!-- - 🤔 I'm looking for help with optimizing quantum simulations in Python and best practices for Flutter Web project architecture. -->
+
 <!--- ⚡ Fun fact: ...-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrick044&layout=compact&theme=dracula)
 
@@ -23,9 +23,3 @@ Here are some ideas to get you started:-->
   <a href="https://www.linkedin.com/in/erickgs-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5546999029618" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="snake" src="dist/github-snake.svg" />
-</picture>
