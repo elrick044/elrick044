@@ -23,3 +23,7 @@ Here are some ideas to get you started:-->
   <a href="https://www.linkedin.com/in/erickgs-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5546999029618" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/elrick044/elrick044/output/snake.svg" alt="Snake animation" />
